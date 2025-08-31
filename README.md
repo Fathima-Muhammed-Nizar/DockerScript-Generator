@@ -13,7 +13,11 @@ Download and Install Ollama
 Start Ollama Service  
 Pull Llama3 Model  
 
+Create Virtual Environment  
+Install Dependencies  
+Run the Application  
+
 # Example Usage
-python3 generate_dockerfile.py  
+python3 main.py  
 Enter programming language: python  
 Generated Dockerfile will be displayed...  
